@@ -38,7 +38,8 @@ Used by admins, instructors, and students.
 
 ## 📈 GitHub Stats
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikreddy0618&show_icons=true&theme=radical)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kar207&show_icons=true&theme=radical)
+
 
 ---
 
