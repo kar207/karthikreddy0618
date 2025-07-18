@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, Python, C  
-**Frontend:** React.js, HTML5, CSS3, Bootstrap  
+**Frontend:** React.js, HTML5, CSS3,Next.js  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, MySQL  
 **Tools:** Git, GitHub, Postman, VS Code  
