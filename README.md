@@ -1,6 +1,6 @@
 # Hi, I'm Karthik 👋
 
-💻 MERN Stack Developer | 🤖 AI Explorer | 🎓 B.Tech in CSE (Data Science)
+💻  Frontend Developer | 🤖 AI Explorer | 🎓 B.Tech in CSE (Data Science)
 
 🚀 Currently working on full-stack apps that integrate AI tools for real-world problem solving.
 
